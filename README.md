@@ -1,35 +1,27 @@
 CLI Calculator
-🔹 About the Project
+🔹 ## 📌 Description
 
-This is a Python-based Command Line Interface (CLI) Calculator that performs multiple arithmetic operations using user input. The project demonstrates object-oriented programming concepts and basic mathematical computations in a simple and efficient way.
-Features
-Addition, Subtraction, Multiplication, Division
-Modulus operation
-Square and Cube calculations
-Power (a^b) calculation
-Average of two numbers
+This project is a simple Command Line Calculator built using Python. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-🔹 How It Works
-The user enters two numbers through the terminal.
-A Calculator class is used to perform different operations.
-Each operation is implemented as a separate method.
-The program calls all methods and displays results in the console.
+## 🧰 Technologies
+* Python
 
-🔹 Technologies Used
-Python
-Object-Oriented Programming (OOP)
-Command Line Interface (CLI)
+## ✨ Features
 
-Sample Output
-Enter first number: 10
-Enter second number: 5
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* User input from command line
+* 
+## 📊 Output
 
-add: 15
-sub: 5
-multi: 50
-div: 2.0
-modular: 0
-square of a: 100
-cube of a: 1000
-power (a^b): 100000
-average: 7.5
+* Takes input from user
+* Displays result in terminal
+
+## ▶️ How to Run
+
+1. Open terminal
+2. Run the program:
+   python main.py
+3. Enter numbers and choose operation
