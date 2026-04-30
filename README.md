@@ -8,16 +8,19 @@ Modulus operation
 Square and Cube calculations
 Power (a^b) calculation
 Average of two numbers
+
 🔹 How It Works
 The user enters two numbers through the terminal.
 A Calculator class is used to perform different operations.
 Each operation is implemented as a separate method.
 The program calls all methods and displays results in the console.
+
 🔹 Technologies Used
 Python
 Object-Oriented Programming (OOP)
 Command Line Interface (CLI)
-🔹 Sample Output
+
+Sample Output
 Enter first number: 10
 Enter second number: 5
 
